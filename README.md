@@ -95,4 +95,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=trendswave&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="trendswave's Trophies" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trendsave&theme=algolia&show_icons=true&count_private=true&hide_title=true)
