@@ -87,3 +87,7 @@
 <br />
 
 ----
+
+<p align="left">
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hunterxcobby&layout=compact&langs_count=8&theme=algolia" alt="trendswave" />
+</p>
